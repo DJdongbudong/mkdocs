@@ -1,14 +1,6 @@
-<<<<<<< HEAD
 site_name: AI-DeepLearning
 nav:
  - 主页: "index.md"
  - 章节: "chapter-1.md" 
  - 关于: "about.md"
-=======
-site_name: AI-DeepLearning
-nav:
- - 主页: "index.md"
- - 章节: "chapter-1.md" 
- - 关于: "about.md"
->>>>>>> fa1fd223e6f088be312df0b5fc0814f1e82658e3
 theme: readthedocs # 使用这种主题
