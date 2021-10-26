@@ -1,6 +1,0 @@
-site_name: AI-DeepLearning
-nav:
- - 主页: "index.md"
- - 章节: "chapter-1.md" 
- - 关于: "about.md"
-theme: readthedocs # 使用这种主题
